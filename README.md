@@ -1,4 +1,4 @@
-## UpBuddy
+## Audio Notes
 ![Project preview](/.github/previewWeb.png)
 
 ### 📝 Sobre este projeto | About this project
