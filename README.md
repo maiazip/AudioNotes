@@ -1,5 +1,5 @@
 ## UpBuddy
-![Project preview](previewWeb.png)
+![Project preview](/.github/previewWeb.png)
 
 ### 📝 Sobre este projeto | About this project
 >Brazilian Portuguese
