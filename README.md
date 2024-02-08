@@ -19,7 +19,7 @@ It is a project with a simple layout, but full of practical and useful features.
 
 >Back-end
 
-Node.js TypeScript 
+Node.js | TypeScript 
 
 ### ✉️ Contate-me | Contact me 
-matheusmaiabastos@hotmail.com
+maia.zip@hotmail.com
